@@ -24,7 +24,7 @@ local Library = {
     Page = {},
     Section = {},
     Settings = {
-        Name = 'NextUI', --UI name
+        Name = 'SnxwUI', --UI name
         Parent = Player.PlayerGui or CoreGui, -- Parent of the IU
 
         Prefix = Enum.KeyCode.RightShift, -- Key to show/hide the UI
